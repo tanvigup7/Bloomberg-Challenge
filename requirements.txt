@@ -1,0 +1,7 @@
+spacy
+transformers
+scikit-learn
+numpy
+pandas
+torch  # Required for transformer-based models in spaCy or Hugging Face
+nltk
